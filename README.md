@@ -34,4 +34,4 @@ This tool is designed for providing a hands-on way to understand:
 ## Project Demo / Screenshots
 Below is an example of the simulation in action:
  
-[Click Here](screenshots/Algorithm-Pathfinder.png)
+[Click Here](Algorithm-Pathfinder.png)
